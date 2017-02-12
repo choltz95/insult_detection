@@ -1,4 +1,4 @@
-from flask import Flask, render_template
+from flask import Flask, render_template, request
 import sqlite3
 import ast
 import dataset
@@ -108,12 +108,19 @@ def get_bully_data():
         recent_posts.append(t)
     return recent_posts
 
-@app.route("/", methods=['POST'])
-def main():
+#@app.route("/",methods = ['POST'])
+#def searchParams():
+#    if request.method == 'POST':
+#        result = request.form
+#        query = result.split()
+#        streaming.run(query)
 
+@app.route("/")
+@app.route("/",methods=['POST'])
+def main():
     if request.method == 'POST':
         result = request.form
-        query = result.split()
+        query = result['search'].split()
         streaming.run(query)
 
     nosocialmediausers = 39
