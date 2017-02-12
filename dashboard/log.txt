@@ -1,0 +1,28 @@
+Most Popular: android with 2. Dict Entries: 9. Tags parsed: 10
+Most Popular: android with 5. Dict Entries: 17. Tags parsed: 27
+Most Popular: Androidgames with 1. Dict Entries: 7. Tags parsed: 7
+Most Popular: androidgames with 4. Dict Entries: 12. Tags parsed: 21
+neutral: 11 bad: 0
+neutral: 22 bad: 0
+neutral: 33 bad: 0
+neutral: 44 bad: 0
+neutral: 11 bad: 0
+neutral: 11 bad: 0
+neutral: 22 bad: 0
+neutral: 33 bad: 0
+neutral: 44 bad: 0
+neutral: 55 bad: 0
+neutral: 66 bad: 0
+neutral: 77 bad: 0
+neutral: 88 bad: 0
+neutral: 99 bad: 0
+neutral: 110 bad: 0
+neutral: 121 bad: 0
+neutral: 132 bad: 0
+neutral: 11 bad: 0
+neutral: 22 bad: 0
+neutral: 33 bad: 0
+neutral: 44 bad: 0
+neutral: 55 bad: 0
+neutral: 11 bad: 0
+neutral: 22 bad: 0
